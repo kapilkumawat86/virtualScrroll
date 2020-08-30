@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.viewport {
+  border: 1px solid grey;
+  width: 150px;
+  overflow-y: auto;
+}
